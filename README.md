@@ -2,3 +2,4 @@
 - :office: I work at Google
 - :heart: solving challenging problems
 - :arrow_down: Here to solve boring stuff 
+- :busts_in_silhouette: open to learn
